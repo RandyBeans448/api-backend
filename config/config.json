@@ -9,7 +9,7 @@
   },
   "production": {
     "dialect": "sqlite",
-    "storage": "production.db"
+    "storage": "fsjstd-restapi.db"
   }
 }
 
